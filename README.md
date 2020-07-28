@@ -11,5 +11,5 @@ I am also on liberapay.org/jeffeb3
 
 Help me stay motivated by showing me what you are using my software for. You can find me on twitter @jeffeb3 or on gmail.
 
-Pronouns: He/Him
-Location: Colorado, USA
+- Pronouns: He/Him
+- Location: Colorado, USA
