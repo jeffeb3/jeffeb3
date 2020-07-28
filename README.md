@@ -1,16 +1,15 @@
-### Hi there 👋
+### Jeffeb3 
 
-<!--
-**jeffeb3/jeffeb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeff, Heffe, Jeffeb3. I love making machines and I spend idle hours here instead of on facebook or playing video games. I have used to have an MPCNC. I have a Low Rider, MP3DP. and ZenXY. I enjoy a good troubleshooting puzzle. I will not help in private. I have learned too much from public forums to answer questions in private.
 
-Here are some ideas to get you started:
+I also wrote and maintain sandify.org and v1pi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am in github sponsors: github.com/sponsors/jeffeb3
+* They are matching 1:1 donations for the first year.
+
+I am also on liberapay.org/jeffeb3
+
+Help me stay motivated by showing me what you are using my software for. You can find me on twitter @jeffeb3 or on gmail.
+
+Pronouns: He/Him
+Location: Colorado, USA
