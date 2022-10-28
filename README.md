@@ -5,7 +5,6 @@ Jeff, Heffe, Jeffeb3. I love making machines and I spend idle hours here instead
 I also wrote and maintain sandify.org and v1pi.
 
 I am in github sponsors: github.com/sponsors/jeffeb3
-* They are matching 1:1 donations for the first year.
 
 I am also on liberapay.org/jeffeb3
 
